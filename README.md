@@ -1,2 +1,2 @@
 # facebook_login
-facebook login fuctinality project
+facebook login fuctionality project
